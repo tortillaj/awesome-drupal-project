@@ -13,6 +13,7 @@ Note that the database must be created with UTF-8 (Unicode) encoding.
 
      createuser --pwprompt --encrypted --no-createrole --no-createdb username
 
+
    If there are no errors, then the command was successful.
 
 2. CREATE DRUPAL DATABASE
