@@ -1,4 +1,4 @@
-image: 'proboci/ubuntu-14.04-lamp:php-7.1'
+image: 'proboci/ubuntu-14.04-lamp'
 steps:
   - name: Probo site setup
     plugin: Drupal
